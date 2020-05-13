@@ -1,0 +1,6 @@
+
+server:
+  port: 7001
+
+config:
+  info: test

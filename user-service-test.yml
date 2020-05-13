@@ -1,0 +1,6 @@
+
+server:
+  port: 6001
+config:
+  info: test
+
